@@ -9,6 +9,8 @@ This application supports the [Getting Started with Go on Heroku](https://devcen
 
 Make sure you have [Go](http://golang.org/doc/install) version 1.12 or newer and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
 
+actual go version: go1.12.1 darwin/amd64
+
 ```sh
 $ git clone https://github.com/heroku/go-getting-started.git
 $ cd go-getting-started
